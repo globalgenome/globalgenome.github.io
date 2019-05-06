@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## A New Blog for the Global Genome Initiative!
 
